@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/anoushka-dev/LeetCode/tree/master/0134-gas-station) |
 | [0560-subarray-sum-equals-k](https://github.com/anoushka-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anoushka-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/anoushka-dev/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
